@@ -1,0 +1,29 @@
+{
+  "name": "medium-clone-app",
+  "version": "1.0.0",
+  "description": "Medium clone app to share ,like and comment blog posts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TijiJoy/medium-clone-app.git"
+  },
+  "keywords": [
+    "Angular7",
+    "MeanStack",
+    "Node",
+    "application"
+  ],
+  "author": "Tiji jOY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TijiJoy/medium-clone-app/issues"
+  },
+  "homepage": "https://github.com/TijiJoy/medium-clone-app#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "mongoose": "^5.5.11"
+  }
+}
